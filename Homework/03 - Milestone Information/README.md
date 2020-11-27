@@ -2,7 +2,7 @@
 
 ## 2.  **Abstract**
 
-The aim of this project is to estimate the relation between housing quality and health status of a person. The project is an observational study based on a survey made by Mexican National Institute of Statistics and Geography. The health variables reported for each person will be used to define a single health variable which will be a score for each person's health status. We will use regression models to predict this health score from the housing variables. Matching will be used to weed out the possible covariates. The motivation is to estimate the most important parameters of housing quality so that we can propose most cost-effective solutions that would increase the quality of health. The original paper is based on the analysis of influence of concrete floors on health quality, while here we would investigate some other parameters such as material used for building and whether there is a toilet or not in the household.
+The aim of this project is to estimate the relation between housing quality and health status of a person. The project is an observational study based on a survey made by Mexican National Institute of Statistics and Geography. The health variables reported for each person will be used to define a single health variable which will be a score for each person's health status. We aim to use machine learning methods to do the classification and we will use regression models to predict this health score from the housing variables. Matching will be used to weed out the possible covariates. The motivation is to estimate the most important parameters of housing quality so that we can propose most cost-effective solutions that would increase the quality of health. The original paper is based on the analysis of influence of concrete floors on health quality, while here we would investigate some other parameters such as material used for building and whether there is a toilet or not in the household.
 
 ## 3. **Research Questions**
 
@@ -47,7 +47,7 @@ Additionally, if necessary, the datasets from ENH 2014, 2015 and 2016 are availa
 
 ## 7. **Organization within the team**
 
-- Erick will work on the exploratory analysis and clustering methods.
+- Erick will work on the translation and machine learningn methods.
 - Antonio will run the regression, using matching scores to weed out possible covariates.
 - Mattia will work on creating an ad hoc health variable which will synthesize the group of variables we are trying to predict.
 
