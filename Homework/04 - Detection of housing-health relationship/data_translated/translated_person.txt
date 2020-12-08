@@ -1,0 +1,58 @@
+House identifier
+Household identifier
+Identifier of the person
+Age
+Birthday
+Birth month
+Sex
+Relationship
+School attendance
+School type
+School shift
+Scholarship or educational credit
+Awards school scholarship
+Scholarship form
+Reason for non-attendance
+Level of instruction
+Level of instruction
+Home
+Literacy
+Marital status
+Worked last week
+Reason for absence from work
+Job search activity 
+Retired or retired 
+Housework activity 
+Student activity
+Limiting physical or mental activity
+Activity from a different situation
+Job numbers
+He was subordinate
+Work on your own 
+Had staff
+Payment method
+Had a written contract
+Wear glasses
+Difficulty seeing
+Wear a hearing aid
+Difficulty hearing
+Difficulty hearing without noise
+Difficulty hearing with noise
+Dificulty to walk
+Use a walking device
+Walking apparatus
+Difficulty walking 100 m
+Difficulty walking 500 m
+Difficulty climbing 12 steps 
+Difficulty remembering
+Frequency of nervousness
+Medication for nervousness
+Intensity of nervousness
+Frequency of depression
+Antidepressant medications
+Intensity of depression
+Frequency of pain
+Pain intensity
+Fatigue frequency
+Tired time
+Intensity of fatigue

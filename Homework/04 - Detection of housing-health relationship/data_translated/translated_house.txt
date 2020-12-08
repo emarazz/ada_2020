@@ -1,0 +1,13 @@
+House identifier
+Household identifier
+Number of people who pay to sleep
+Guests who pay to eat
+Domestic worker
+Nanny or elderly caregiver
+Laundryman
+Driver
+Chef
+Gardener
+Number of household members
+Total male members
+Total female members

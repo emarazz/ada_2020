@@ -1,0 +1,110 @@
+House identifier
+Housing type
+Number of floors in the condominium
+Elevator availability
+Wall material
+Roofing material
+Flooring material
+Roof insulation
+Insulation in walls
+Window insulation
+Other type of insulation
+Age of the home
+It has kitchen
+Used bedroom kitchen
+Bedroom rooms
+Number of rooms
+Water availability
+Water supply
+Has a toilet
+Shared use of the toilet
+Sanitary water connection
+Toilet toilet shower
+Toilet toilet
+Toilet shower
+Drainage destination
+Electric availability
+Solar panel year
+Acquisition year unknown
+Knowledge of installed power
+Installed potency
+Number of incandescent bulbs
+Number of energy saving bulbs
+Fuel type
+Stove with fireplace
+Garbage disposal
+It has a laundry room
+It has a sink
+It has a shower
+It has an electric shower
+It has a water tank
+It has a cistern
+It has a pool or tank
+It has a solar water heater
+It has a gas heater for water
+It has a light meter
+It has a water pump
+It has a stationary gas tank
+It has air conditioning
+It has heating
+It has a fireplace
+Repair the walls
+Repair the roof
+Repair the water pipes
+Repair drain pipes
+Repair electrical wiring
+Build bedroom
+Build kitchen
+Build bathroom
+Build business
+Living room space
+Garden space
+Patio space
+Laundry room space
+TV room space
+Study room space
+Game room space
+Space for exercise room
+Garage space
+Parking drawers
+Common area with other homes
+Meeting room common area
+Common area walking track
+Gym common area
+Common area playground
+Sports courts common area
+Common area pool
+Another common area
+Type of home ownership
+Housing rent payment
+Years residing in the home
+Months residing in the home
+Relationship to homeowner
+Acquisition of the home
+Own resources
+FONHAPO support
+INFONAVIT or FOVISSSTE credit
+Bank credit
+Microfinance credit
+Savings bank credit
+Credit from another institution
+Family loan
+First owner identifier
+First owner's home
+Secon owner identifier
+Second owner's home
+Property deeds
+Computer availability
+Fixed telephone line availability
+Cell phone availability
+Internet availability
+Pay TV service availability
+Availability of own car
+Total households in the dwelling
+Geographic location
+Cell phone availability
+Internet availability
+Pay TV service availability
+Availability of own car
+Total households in the dwelling
+Geographic location
