@@ -16,7 +16,7 @@ We propose to use datasets from ENH-2017 by Mexican National Institute of Statis
 
 The National Household Survey (ENH) is carried out with the purpose of knowing the characteristics of the housing units; sociodemographic data about the household members, their occupation, education; as well as the availability of information and communication technologies goods and services in households. At the same time, it allows the integration of the satellite accounts of the System of National Accounts of Mexico (SCNM). [National Household Survey (ENH) 2017](https://en.www.inegi.org.mx/programas/enh/2017/)
 
-The dataset consists of 64 000 households with about 208 141 habitants living in those households. The data consist of three different units including households data with 110 variables, house data with 13 variables and person data with 58 variables. Each person is assigned to its corresponding household and house.
+The dataset consists of 64 000 households with about 208 140 habitants living in those households. The data consist of three different units including households data with 110 variables, house data with 13 variables and person data with 58 variables. Each person is assigned to its corresponding household and house.
 
 - **Sample size:** 64 000 housing units
 - **Observation unit:** The household.
