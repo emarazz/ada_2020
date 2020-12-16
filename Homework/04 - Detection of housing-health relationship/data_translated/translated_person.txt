@@ -13,7 +13,7 @@ Scholarship_or_educational_credit
 Awards_school_scholarship
 Scholarship_form
 Reason_for_non-attendance
-Level_of_instruction
+Grade_level_of_instruction
 Level_of_instruction
 Home
 Literacy

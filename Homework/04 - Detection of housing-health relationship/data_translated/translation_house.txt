@@ -102,9 +102,9 @@ Pay_TV_service_availability
 Availability_of_own_car
 Total_households_in_the_dwelling
 Geographic_location
-Cell_phone_availability
-Internet_availability
-Pay_TV_service_availability
-Availability_of_own_car
-Total_households_in_the_dwelling
-Geographic_location
+Basic_geostatistical_area
+Location_size
+Socioeconomic
+Sample_design_stratum
+Primary_sampling_unit
+Expansion_factor
