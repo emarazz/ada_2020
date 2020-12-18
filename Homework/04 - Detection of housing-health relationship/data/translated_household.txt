@@ -1,0 +1,13 @@
+housing_identifier
+household_identifier
+number_of_people_who_pay_to_sleep
+guests_who_pay_to_eat
+domestic_worker
+nanny_or_elderly_caregiver
+laundryman
+driver
+chef
+gardener
+number_of_household_members
+total_male_members
+total_female_members
